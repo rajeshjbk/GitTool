@@ -4,6 +4,6 @@ public class A1 {
 
 	public String sayHello() {
 		
-		return "Good Morning, Raju";
+		return "Good Morning, Raj";
 	}
 }
