@@ -8,4 +8,9 @@ public class StringUtil {
 		
 		return str.equalsIgnoreCase(revStr);
 	}
+	
+	public void Welcome() {
+		
+		System.out.println("Welcome to Java World.");
+	}
 }
